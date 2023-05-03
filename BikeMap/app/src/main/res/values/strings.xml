@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">BikeMap</string>
+    <string name="image_description">picture</string>
+    <string name="homepage_title">Main Page</string>
 </resources>
